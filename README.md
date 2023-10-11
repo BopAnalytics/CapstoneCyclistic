@@ -56,14 +56,14 @@ To answer this question, there were a few things that I identified that I could 
 * **Total # of trips and average length of trip per rider type per month, day, and hour of day**
 * **Most Popular Start and End Stations per rider type**
 
-All Pivot tables and PowerQuery data can be found [here](https://github.com/BopAnalytics/Data-Analytics-Portfolio/blob/main/PowerQuery)
+All Pivot tables and PowerQuery data can be found [here](https://github.com/BopAnalytics/CapstoneCyclistic/blob/main/PowerQuery)
 
 After analyzing the Pivot tables, there are multiple facts to state:
 * Riders peak at 5pm
 * Casual riders have a longer average ride time for each type of bike
 * The classic bike is used the most
 
-Here is a look at the charts: [here](https://github.com/BopAnalytics/Data-Analytics-Portfolio/commit/b31e3790604d131ef0de692b9d65fe2e16e1e163#diff-a654e76c146320d8eeed33491dcd7b82ee3c6c11d027dc588e1d9e0f25319f9f)
+Here is a look at the charts: [here](https://github.com/BopAnalytics/CapstoneCyclistic/commit/45e905b3958c6bf80ef7ae823056b49b9edf0658)
 
 Here is a summary of the key differences found between Member and Casual Riders:
 * Casual riders ride longer than regular members
