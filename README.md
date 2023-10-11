@@ -62,6 +62,7 @@ After analyzing the Pivot tables, there are multiple facts to state:
 * Riders peak at 5pm
 * Casual riders have a longer average ride time for each type of bike
 * The classic bike is used the most
+* Most popular start station is by the water at Streeter Dr & Grand Ave
 
 Here is a look at the charts: [here](https://github.com/BopAnalytics/CapstoneCyclistic/commit/45e905b3958c6bf80ef7ae823056b49b9edf0658)
 
@@ -77,4 +78,4 @@ Here is a summary of the key differences found between Member and Casual Riders:
 Based on my analysis, I'd recommend for management to encourage casual members to convert into regular members. Casual members are using the services more than regular members. 
 
 1. Seasonal Membership: Summer (May to August), Fall (September to November), Winter (December to February), Spring (March to April)
-2. 
+2. Waterfront Promotion: Setting up an advertissement campaign that is by the water at Streeter Dr & Grand Ave
