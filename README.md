@@ -78,4 +78,4 @@ Here is a summary of the key differences found between Member and Casual Riders:
 Based on my analysis, I'd recommend for management to encourage casual members to convert into regular members. Casual members are using the services more than regular members. 
 
 1. Seasonal Membership: Summer (May to August), Fall (September to November), Winter (December to February), Spring (March to April)
-2. Waterfront Promotion: Setting up an advertissement campaign that is by the water at Streeter Dr & Grand Ave
+2. Waterfront Promotion: Setting up an advertisement campaign that is by the water at Streeter Dr & Grand Ave
