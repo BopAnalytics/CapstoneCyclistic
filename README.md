@@ -79,3 +79,5 @@ Based on my analysis, I'd recommend for management to encourage casual members t
 
 1. Seasonal Membership: Summer (May to August), Fall (September to November), Winter (December to February), Spring (March to April)
 2. Waterfront Promotion: Setting up an advertisement campaign that is by the water at Streeter Dr & Grand Ave
+3. Specific bike promotions: Encourage riders to use other bikes. There can be a membership discount for docked bikes, to increase their usage and increase the number of other bikes available for non-members
+4. Increase the number of classic bikes: This could be a good investment as classic bikes are the most popular, make classic bikes more exclusive to members only 
